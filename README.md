@@ -27,7 +27,6 @@ ImageSculptor is a serverless image processing system using AWS services. It aut
 ## Getting Started:
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com/andrewnguyen41/aws-serverless-image-processing
 cd aws-serverless-image-processing
 2. Set up the environment:
 Create a .env file with your AWS credentials and bucket name:
